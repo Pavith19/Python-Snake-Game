@@ -27,7 +27,7 @@ Get started in just a few steps! Follow these instructions to set up the game on
 ### Steps
 1. **Clone the Repository** 📂
    ```bash
-   git clone https://github.com/your-username/enhanced-snake-game.git
+   https://github.com/Pavith19/Python-Snake-Game.git
    cd enhanced-snake-game
    ```
 
