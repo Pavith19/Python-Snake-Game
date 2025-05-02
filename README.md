@@ -80,10 +80,6 @@ Contributions are welcome! 🙌 If you'd like to improve the game, follow these 
 4. Push to the branch (`git push origin feature/awesome-feature`) 📤
 5. Open a Pull Request 📬
 
-## 🐛 Bug Reports & Feedback
-
-Found a bug or have a suggestion? 🕷️ Open an issue on GitHub or reach out via [your contact info]. Your feedback helps make this game better! 😊
-
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 📄
