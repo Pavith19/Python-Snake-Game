@@ -14,7 +14,7 @@ Welcome to the **Enhanced Snake Game**, a modern twist on the classic Snake game
 
 ## 📸 Screenshots
 
-*Coming soon! Stay tuned for visuals of the game in action.* 📷
+*Screenshots of the game can be found in the [`screenshots`](./screenshots) folder.  * 📷
 
 ## 🛠️ Installation
 
